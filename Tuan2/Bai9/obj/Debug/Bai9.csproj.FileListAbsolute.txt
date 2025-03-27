@@ -1,0 +1,10 @@
+C:\Users\Admin\OneDrive\Desktop\31231027688_HoSyNamBinh\Tuan2\Bai9\bin\Debug\Bai9.exe.config
+C:\Users\Admin\OneDrive\Desktop\31231027688_HoSyNamBinh\Tuan2\Bai9\bin\Debug\Bai9.exe
+C:\Users\Admin\OneDrive\Desktop\31231027688_HoSyNamBinh\Tuan2\Bai9\bin\Debug\Bai9.pdb
+C:\Users\Admin\OneDrive\Desktop\31231027688_HoSyNamBinh\Tuan2\Bai9\obj\Debug\Bai9.csproj.AssemblyReference.cache
+C:\Users\Admin\OneDrive\Desktop\31231027688_HoSyNamBinh\Tuan2\Bai9\obj\Debug\Bai9.Link.resources
+C:\Users\Admin\OneDrive\Desktop\31231027688_HoSyNamBinh\Tuan2\Bai9\obj\Debug\Bai9.Properties.Resources.resources
+C:\Users\Admin\OneDrive\Desktop\31231027688_HoSyNamBinh\Tuan2\Bai9\obj\Debug\Bai9.csproj.GenerateResource.cache
+C:\Users\Admin\OneDrive\Desktop\31231027688_HoSyNamBinh\Tuan2\Bai9\obj\Debug\Bai9.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Desktop\31231027688_HoSyNamBinh\Tuan2\Bai9\obj\Debug\Bai9.exe
+C:\Users\Admin\OneDrive\Desktop\31231027688_HoSyNamBinh\Tuan2\Bai9\obj\Debug\Bai9.pdb
